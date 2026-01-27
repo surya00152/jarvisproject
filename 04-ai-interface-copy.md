@@ -14,17 +14,42 @@ Use this copy as the baseline text for each section. Keep tone calm, precise, an
 
 ## Page 1: Home - Enter the Intelligence
 
-### Section 1: AI Awakening Hero
-- Headline: "We design intelligence, not software."
-- Subhead: "Automation. Reasoning. Vision. Voice. Intelligence."
-- Support line: "You are entering a system built to think."
+### Section 1: Intelligence World Portal Hero
+- Headline: "Enter the intelligence layer."
+- Subhead: "Signals. Memory. Decisions. Actions."
+- Support line: "This is an AI interface, not a website."
 - Primary CTA: "Ask the AI"
-- Secondary CTA: "Experience intelligence in action"
+- Secondary CTA: "Explore the system atlas"
 - System log lines:
   - "System online. Signals detected."
-  - "Inference layer: active."
+  - "Inference core: active."
 
-### Section 2: What This AI Can Do
+### Section 2: System Atlas
+- Section title: "System atlas"
+- Section subhead: "Every module in one map."
+- Cluster labels:
+  - "Core Intelligence"
+  - "Proof and Experience"
+  - "Trust and Governance"
+  - "Deployment Path"
+- Module cards (label -> destination):
+  - "Capabilities" -> AI capabilities
+  - "Build pipeline" -> Process
+  - "Live demos" -> Demo hub
+  - "Scenarios" -> Use scenarios
+  - "Why different" -> Positioning
+  - "Talk to the AI" -> Contact
+  - "Readiness diagnostic" -> Readiness
+  - "Integrations" -> Data sources
+  - "Engagement model" -> Pilot to production
+  - "Monitoring and support" -> Monitoring
+  - "Privacy and ethics" -> Privacy
+  - "Security and compliance" -> Security
+  - "System status" -> Research log
+  - "Legal and accessibility" -> Legal
+- Atlas CTA: "Ask the AI to recommend a route"
+
+### Section 3: What This AI Can Do
 - Section title: "Capabilities, translated into outcomes"
 - Section subhead: "Plain language first. Technical depth on demand."
 - Card titles (examples):
@@ -35,14 +60,14 @@ Use this copy as the baseline text for each section. Keep tone calm, precise, an
 - Card expand line: "See how it is built"
 - Technical toggle label: "Show system detail"
 
-### Section 3: AI System Map
+### Section 4: AI System Map
 - Section title: "System map"
 - Subhead: "Data becomes decisions in a continuous loop."
 - Hover copy (non-technical): "This is where signals become actions."
 - Hover copy (technical): "Retrieval, reasoning, and policy control."
 - CTA: "See how intelligence is built"
 
-### Section 4: Try Intelligence (Demo CTA)
+### Section 5: Try Intelligence (Demo CTA)
 - Section title: "Experience intelligence in action"
 - Subhead: "Live AI modules. No simulation."
 - Tile labels:
@@ -53,13 +78,13 @@ Use this copy as the baseline text for each section. Keep tone calm, precise, an
 - Tile microcopy: "Launch experience"
 - Link: "See all live experiences"
 
-### Section 5: Voice-First Conversion
+### Section 6: Voice-First Conversion
 - Headline: "Do not read. Just speak."
 - Subhead: "The AI will qualify your needs and design a system path."
 - Primary CTA: "Talk to the AI Architect"
 - Support line: "Voice-first. No forms."
 
-### Section 6: Footer System Prompt
+### Section 7: Footer System Prompt
 - Footer line: "System ready. Choose your next step."
 - Footer CTA: "Contact via AI"
 

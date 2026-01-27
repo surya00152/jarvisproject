@@ -13,32 +13,36 @@ Use this page to create the first impression of an AI system interface. The page
 
 ## CTA Strategy (page level)
 - Primary CTA: Voice assistant entry ("Ask the AI", "Design my system").
-- Secondary CTA: Demo experiences.
-- Tertiary CTA: Explore AI capabilities page.
+- Secondary CTA: System atlas modules (quick routing).
+- Tertiary CTA: Demo experiences and AI capabilities.
 
 ---
 
-## Section 1: AI Awakening Hero
+## Section 1: Intelligence World Portal Hero
 **Purpose**
-- Establish the "AI interface" feel immediately.
+- Deliver a 70 percent first-impression moment.
+- Make the visitor feel they crossed into an intelligence layer.
 
 **Content Intent**
-- Headline: "We design intelligence, not software."
-- Subtext: "Automation. Reasoning. Vision. Voice. Intelligence."
-- One short line that implies systems-level thinking.
+- Headline: "Enter the intelligence layer."
+- Subtext: "Signals. Memory. Decisions. Actions."
+- Short line: "This is an AI interface, not a website."
 
 **Design and Animation Logic**
-- Dark canvas with a subtle neural structure forming from data points.
-- Node activations pulse gently in the accent color only during "thinking".
-- When the page loads, the system "awakens" (data points converge).
+- A multi-layer 3D "intelligence world": signal plane, model lattice, memory rings,
+  and an action horizon.
+- Data streams fall into a central inference core, then radiate outward as decisions.
+- Subtle camera drift and depth-of-field create a world-like presence.
+- Accent color appears only when the system "thinks."
 
 **Interactions**
-- Hovering on the neural structure reveals short "system logs" in mono text.
-- The hero responds to cursor or touch with a slow parallax drift.
+- Cursor or touch creates localized inference ripples in the lattice.
+- Hover reveals a small mono "system log" anchored to the hovered node.
+- Scroll nudges the camera to reveal hidden layers, not just parallax.
 
 **CTA Placement**
 - Primary CTA in the hero: "Ask the AI" (launch external voice assistant).
-- Secondary CTA: "Experience intelligence in action" (scrolls to demos).
+- Secondary CTA: "Explore the system atlas" (scrolls to Section 2).
 
 **AI Voice Assistant Integration**
 - The floating orb appears immediately in the lower-right corner.
@@ -47,7 +51,45 @@ Use this page to create the first impression of an AI system interface. The page
 
 ---
 
-## Section 2: What This AI Can Do (Non-Technical Friendly)
+## Section 2: System Atlas (Whole Website Overview)
+**Purpose**
+- Cover the entire website in short, navigable modules.
+- Provide a direct route to any page without breaking the flow.
+
+**Content Intent**
+- Title: "System atlas"
+- Subhead: "Every module in one map."
+- Each card has a single-line summary and routes to a specific page.
+
+**Modules and Destinations**
+- Capabilities -> AI capabilities page
+- Build pipeline -> How intelligence is built page
+- Live demos -> Live AI experiences page
+- Scenarios -> Industries and use scenarios page
+- Why different -> Positioning page
+- Talk to the AI -> Contact page
+- Readiness diagnostic -> Readiness page
+- Integrations -> Integrations and data sources page
+- Engagement model -> Pilot to production page
+- Monitoring and support -> Monitoring page
+- Privacy and ethics -> Privacy page
+- Security and compliance -> Security page
+- System status -> Research log page
+- Legal and accessibility -> Legal page
+
+**Design and Animation Logic**
+- Cards appear as a constellation around a central intelligence core.
+- Cluster labels: "Core Intelligence", "Proof and Experience",
+  "Trust and Governance", "Deployment Path".
+- Hovering a card highlights its cluster and draws a short signal line.
+
+**CTA Placement**
+- Each module card is a CTA.
+- A small "Guided path" CTA opens the voice assistant to recommend a route.
+
+---
+
+## Section 3: What This AI Can Do (Non-Technical Friendly)
 **Purpose**
 - Translate AI capabilities into human outcomes.
 
@@ -65,7 +107,7 @@ Use this page to create the first impression of an AI system interface. The page
 
 ---
 
-## Section 3: AI System Map (Core Differentiator)
+## Section 4: AI System Map (Core Differentiator)
 **Purpose**
 - Show the architecture as a living system.
 
@@ -82,7 +124,7 @@ Use this page to create the first impression of an AI system interface. The page
 
 ---
 
-## Section 4: Try Intelligence (Demo CTA #1)
+## Section 5: Try Intelligence (Demo CTA #1)
 **Purpose**
 - Convert curiosity into belief via real experiences.
 
@@ -99,7 +141,7 @@ Use this page to create the first impression of an AI system interface. The page
 
 ---
 
-## Section 5: Voice-First Conversion
+## Section 6: Voice-First Conversion
 **Purpose**
 - Make voice the primary conversion path.
 
@@ -119,7 +161,7 @@ Use this page to create the first impression of an AI system interface. The page
 
 ---
 
-## Section 6: Footer System Prompt
+## Section 7: Footer System Prompt
 **Purpose**
 - Provide minimal navigation and trust anchors.
 

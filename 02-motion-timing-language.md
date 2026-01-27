@@ -27,14 +27,16 @@ This document defines the animation and interaction timing for the entire site. 
 
 ## Global Sequences
 
-### Page Load - "AI Awakening"
+### Page Load - "Intelligence World"
 - Delay: 150ms after load.
 - Sequence:
-  1. Background grid fade in (300ms).
-  2. Neural points appear (600ms).
-  3. Data lines connect (900ms).
-  4. Headline reveal (320ms).
-- Total: 1.8s to 2.2s.
+  1. Depth grid fade in (300ms).
+  2. Layer planes appear (500ms).
+  3. Inference core forms (900ms).
+  4. Data streams fall into the core (1200ms).
+  5. Decision wave spreads across the horizon (600ms).
+  6. Headline reveal (320ms).
+- Total: 2.4s to 3.0s.
 
 ### Scroll Reveal
 - Offset: 40-60px upward.
@@ -56,6 +58,13 @@ This document defines the animation and interaction timing for the entire site. 
 - Thinking: slow gradient shimmer, 1.8s cycle.
 - Speaking: waveform ripple, 600ms loop.
 
+### Hero World Engine (Home)
+- Camera drift: 12-16s loop, 1-2 degrees orbit.
+- Depth parallax: 2-4px per layer.
+- Inference core pulse: 4-6s loop, soft glow.
+- Ripple interaction: 240ms start, 800ms decay.
+- Scroll tilt: 6 degrees over 600ms.
+
 ### Capability Cards
 - Hover lift: 6-8px, 180ms.
 - Expand: 320-420ms with height and opacity.
@@ -74,6 +83,11 @@ This document defines the animation and interaction timing for the entire site. 
 ### Scenario Cards
 - Hover: signal pulse along the card edge (240ms).
 - Expand: 360ms, show system stack.
+
+### System Atlas Cards
+- Cluster reveal: 420ms with 60ms stagger.
+- Hover highlight: 160ms glow in, 160ms glow out.
+- Connection line draw: 240ms linear.
 
 ### Pipelines and Diagrams
 - Stage activation: 240ms per node.
