@@ -32,6 +32,7 @@ Use this copy as the baseline text for each section. Keep tone calm, precise, an
   - "Proof and Experience"
   - "Trust and Governance"
   - "Deployment Path"
+  - "Enterprise Readiness"
 - Module cards (label -> destination):
   - "Capabilities" -> AI capabilities
   - "Build pipeline" -> Process
@@ -48,6 +49,12 @@ Use this copy as the baseline text for each section. Keep tone calm, precise, an
   - "Security and compliance" -> Security
   - "System status" -> Research log
   - "Legal and accessibility" -> Legal
+  - "AI procurement FAQ" -> Procurement Q and A
+  - "Reference architecture" -> Architecture blueprint
+  - "Impact estimator" -> Impact and ROI
+  - "Change management" -> Human-in-the-loop
+  - "Model evaluation" -> Safety metrics
+  - "Procurement pack" -> Procurement pack
 - Atlas CTA: "Ask the AI to recommend a route"
 
 ### Section 3: What This AI Can Do
@@ -559,3 +566,204 @@ Use this copy as the baseline text for each section. Keep tone calm, precise, an
 ### Section 9: Conversion Panel
 - Headline: "Describe the tasks you want agents to handle."
 - CTA: "Ask the AI about agentic systems"
+
+---
+
+## Page 17: AI Procurement FAQ and Objection Handler
+
+### Section 1: Procurement Hero
+- Headline: "Clear answers for procurement."
+- Subhead: "Ownership, privacy, deployment, and risk — addressed directly."
+
+### Section 2: Ownership and IP
+- Lines:
+  - "Data ownership stays with you."
+  - "Outputs are client-owned unless specified."
+  - "Model artifacts are scoped per engagement."
+
+### Section 3: Training Data and Privacy
+- Lines:
+  - "Training data is permissioned and scoped."
+  - "No cross-client training without consent."
+  - "Retention is client-controlled."
+
+### Section 4: Vendor Lock-In and Portability
+- Lines:
+  - "Modular architecture enables portability."
+  - "Export paths are defined."
+  - "Offboarding steps are documented."
+
+### Section 5: Performance and Latency
+- Lines:
+  - "Latency targets are defined per use case."
+  - "Real-time systems are tuned for context."
+
+### Section 6: Deployment Options
+- Lines:
+  - "Secure cloud"
+  - "VPC"
+  - "On-prem"
+
+### Section 7: Procurement Next Steps
+- Headline: "If a question remains, ask the AI."
+- CTA: "Ask the AI to clarify a procurement question"
+
+---
+
+## Page 18: Reference Architecture Blueprint
+
+### Section 1: Blueprint Hero
+- Headline: "Canonical AI system architecture."
+- Subhead: "A default stack built for intelligence and control."
+
+### Section 2: The Canonical Stack
+- Layer labels:
+  1. "Signal intake"
+  2. "Data intelligence layer"
+  3. "Retrieval and memory"
+  4. "Model reasoning"
+  5. "Orchestration"
+  6. "Action layer"
+  7. "Monitoring and safety"
+  8. "Governance"
+
+### Section 3: Variant Modules
+- Toggles:
+  - "Voice-first"
+  - "Vision-first"
+  - "RAG-heavy"
+  - "Agentic"
+
+### Section 4: Boundaries and Control
+- Lines:
+  - "Policy gates before tool execution."
+  - "Traceable decisions and outputs."
+
+### Section 5: Conversion Panel
+- Headline: "Map this architecture to your environment."
+- CTA: "Ask the AI to map this to your stack"
+
+---
+
+## Page 19: Impact and ROI Estimator
+
+### Section 1: Estimator Hero
+- Headline: "Estimate impact ranges, not promises."
+- Subhead: "Adjust inputs to see potential outcomes."
+
+### Section 2: Input Signals
+- Inputs:
+  - "Task volume per week"
+  - "Average time per task"
+  - "Error or rework rate"
+  - "Peak-time load"
+  - "Current response latency"
+  - "Operational coverage gaps"
+
+### Section 3: Impact Range Output
+- Lines:
+  - "Time saved range"
+  - "Response improvement range"
+  - "Error reduction range"
+  - "Coverage expansion range"
+
+### Section 4: Assumptions and Limits
+- Line: "Estimates depend on data quality and process fit."
+- Note: "No claim is a guarantee."
+
+### Section 5: Next Steps
+- Headline: "If inputs are weak, run a readiness diagnostic."
+- CTA: "Run the readiness diagnostic"
+
+---
+
+## Page 20: Change Management and Human-in-the-Loop
+
+### Section 1: Change Management Hero
+- Headline: "Intelligence with humans in control."
+- Subhead: "Adoption is engineered, not rushed."
+
+### Section 2: Human-in-the-Loop Controls
+- Lines:
+  - "Approval gates for high-risk decisions."
+  - "Manual review and escalation paths."
+  - "Audit trails for every action."
+
+### Section 3: Role Transitions
+- Lines:
+  - "From manual execution to exception handling."
+  - "From reactive support to proactive oversight."
+
+### Section 4: Enablement and Training
+- Line: "Short training cycles aligned to roles."
+
+### Section 5: Adoption Milestones
+- Line: "Pilot -> Controlled rollout -> Full production."
+
+### Section 6: Conversion Panel
+- Headline: "Describe your team and workflow."
+- CTA: "Ask the AI about adoption planning"
+
+---
+
+## Page 21: Model Evaluation and Safety Metrics
+
+### Section 1: Evaluation Hero
+- Headline: "Measure intelligence, not just outputs."
+- Subhead: "Accuracy, drift, and safety are continuously evaluated."
+
+### Section 2: Core Metrics
+- Metrics:
+  - "Accuracy and task success rate"
+  - "Precision and recall"
+  - "Hallucination rate"
+  - "Latency and throughput"
+  - "Drift detection"
+  - "Safety incident rate"
+
+### Section 3: Evaluation Pipeline
+- Lines:
+  - "Offline benchmarks before deployment."
+  - "Online monitoring and sampling."
+  - "Human review for high-risk outputs."
+
+### Section 4: Safety Testing and Red Teaming
+- Line: "Adversarial testing and guardrail validation."
+
+### Section 5: Reporting and Thresholds
+- Line: "Thresholds drive escalation or retraining."
+
+### Section 6: Conversion Panel
+- Headline: "Ask the AI how we measure quality and safety."
+- CTA: "Ask the AI about evaluation metrics"
+
+---
+
+## Page 22: Procurement Pack
+
+### Section 1: Procurement Pack Hero
+- Headline: "Procurement pack, ready."
+- Subhead: "Security, compliance alignment, and data handling details."
+
+### Section 2: Pack Contents
+- Items:
+  - "Security overview"
+  - "Compliance alignment summary"
+  - "Data handling and retention policy"
+  - "Reference architecture blueprint"
+  - "Monitoring and support overview"
+  - "Legal and accessibility summary"
+
+### Section 3: Access Method
+- Options:
+  - "Direct download (if enabled)"
+  - "Voice request for secure delivery"
+  - "Minimal email form for audit trails"
+
+### Section 4: Terms and Use
+- Line: "For internal evaluation and procurement review."
+- Note: "No follow-up unless requested."
+
+### Section 5: Conversion Panel
+- Headline: "If you need a specific document, ask the AI."
+- CTA: "Ask the AI about a document"

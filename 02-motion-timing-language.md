@@ -113,6 +113,25 @@ This document defines the animation and interaction timing for the entire site. 
 - Resolution merge: 320ms, soft ease.
 - Reason code type-in: 20-30ms per character.
 
+### Architecture Blueprint Diagram
+- Layer highlight: 200-260ms.
+- Stack flow line: 1.0-1.4s linear.
+- Variant toggle swap: 220-320ms.
+
+### Impact and ROI Estimator
+- Slider response: 120-180ms.
+- Range band update: 200-260ms.
+- Confidence band fade: 260-320ms.
+
+### Metrics Dashboard
+- Metric tick update: 180-240ms.
+- Threshold flash: 120ms amber, 300ms fade.
+- Drift indicator pulse: 600ms loop, low intensity.
+
+### Procurement Pack Access
+- Document list reveal: 160-220ms stagger.
+- Access panel swap: 200-260ms.
+
 ### Trust and Policy Pages
 - Minimal motion only.
 - Use amber highlight for checks (120ms flash, 300ms fade).

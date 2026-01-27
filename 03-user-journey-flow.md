@@ -73,12 +73,14 @@ This document defines the full user journey flows and routing logic. The experie
 
 ### Flow E: Trust-First (Enterprise or Risk-Aware)
 **Entry points**
-- Privacy and Ethics, Security and Compliance, Monitoring and Support.
+- Privacy and Ethics, Security and Compliance, Monitoring and Support,
+  Model Evaluation and Safety Metrics, Procurement FAQ, Procurement Pack.
 
 **Path**
 1. Read trust policy
-2. System suggests readiness diagnostic
-3. Offer AI Architect for security questions
+2. Review evaluation metrics and safeguards
+3. System suggests readiness diagnostic
+4. Offer AI Architect for security questions
 
 **Exit**
 - Engagement model or voice assistant.
@@ -113,6 +115,34 @@ This document defines the full user journey flows and routing logic. The experie
 
 ---
 
+### Flow H: Procurement-First (Legal or Procurement Teams)
+**Entry points**
+- Procurement FAQ, Procurement Pack, Security and Compliance.
+
+**Path**
+1. Read procurement Q and A
+2. Review pack contents or request delivery
+3. Ask the AI to clarify any open questions
+
+**Exit**
+- Engagement model or voice assistant.
+
+---
+
+### Flow I: Architecture-First (Technical Architecture Review)
+**Entry points**
+- Reference Architecture Blueprint, Integrations and Data Sources.
+
+**Path**
+1. Review the canonical stack
+2. Toggle system variants (voice, vision, agentic)
+3. Ask the AI to map to their environment
+
+**Exit**
+- Integrations page or voice assistant.
+
+---
+
 ## Routing Rules and Triggers
 
 ### CTA Routing Logic
@@ -120,6 +150,10 @@ This document defines the full user journey flows and routing logic. The experie
 - If user watches a demo: offer "Explain the system behind this".
 - If user visits trust pages: offer "Ask about security".
 - If user hits the process page: offer "Start a pilot".
+- If user visits procurement pages: offer "Request the procurement pack".
+- If user visits the blueprint: offer "Map this to my stack".
+- If user visits the estimator: offer "Run readiness diagnostic".
+- If user visits metrics: offer "Ask about evaluation and safety".
 
 ### Voice Assistant Context Tags
 - Home -> "Entry"
@@ -130,6 +164,12 @@ This document defines the full user journey flows and routing logic. The experie
 - Scenarios -> "Qualification"
 - Trust pages -> "Risk and governance"
 - Contact -> "Handoff"
+- Procurement FAQ -> "Procurement Q and A"
+- Procurement Pack -> "Procurement pack"
+- Architecture Blueprint -> "Architecture mapping"
+- Impact Estimator -> "Impact estimator"
+- Change Management -> "Adoption"
+- Model Evaluation -> "Metrics inquiry"
 
 ### Demo Recommendation Logic
 - Voice or chat identifies a scenario.

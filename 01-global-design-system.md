@@ -81,3 +81,9 @@ Use this document as the overarching instruction set for every page. The website
 14. Monitoring and Support
 15. Legal and Accessibility
 16. Agentic Tech Flow
+17. AI Procurement FAQ and Objection Handler
+18. Reference Architecture Blueprint
+19. Impact and ROI Estimator
+20. Change Management and Human-in-the-Loop
+21. Model Evaluation and Safety Metrics
+22. Procurement Pack

@@ -77,11 +77,17 @@ Use this page to create the first impression of an AI system interface. The page
 - Security and compliance -> Security page
 - System status -> Research log page
 - Legal and accessibility -> Legal page
+- AI procurement FAQ -> Procurement Q and A page
+- Reference architecture -> Architecture blueprint page
+- Impact estimator -> Impact and ROI estimator page
+- Change management -> Human-in-the-loop page
+- Model evaluation -> Safety metrics page
+- Procurement pack -> Procurement pack page
 
 **Design and Animation Logic**
 - Cards appear as a constellation around a central intelligence core.
 - Cluster labels: "Core Intelligence", "Proof and Experience",
-  "Trust and Governance", "Deployment Path".
+  "Trust and Governance", "Deployment Path", "Enterprise Readiness".
 - Hovering a card highlights its cluster and draws a short signal line.
 
 **CTA Placement**
