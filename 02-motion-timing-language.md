@@ -101,6 +101,18 @@ This document defines the animation and interaction timing for the entire site. 
 - Task queue tick: 280ms reveal per item, 80ms stagger.
 - Tool gate flash: 120ms amber, 300ms fade.
 
+### Tool Invocation Trace Mesh
+- Trace line draw: 220-320ms linear.
+- Trace ID label fade: 180ms in, 600ms out.
+- Policy stamp: 140ms pop, 240ms fade.
+- Trace expiry: 1.2-1.8s dissolve.
+
+### Conflict Resolution Flow
+- Conflict flag: 120ms amber in, 400ms hold, 300ms out.
+- Split path reveal: 260ms each branch, 80ms stagger.
+- Resolution merge: 320ms, soft ease.
+- Reason code type-in: 20-30ms per character.
+
 ### Trust and Policy Pages
 - Minimal motion only.
 - Use amber highlight for checks (120ms flash, 300ms fade).

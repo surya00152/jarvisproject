@@ -527,11 +527,23 @@ Use this copy as the baseline text for each section. Keep tone calm, precise, an
   - "Policy gates before execution."
   - "Sandboxed actions."
 
-### Section 4: Multi-Agent Orchestration Diagram
+### Section 4: Tool Invocation Trace Mesh
+- Lines:
+  - "Every tool call creates a trace."
+  - "Inputs, outputs, and policy results are logged."
+  - "Trace IDs allow replay and audit."
+
+### Section 5: Multi-Agent Orchestration Diagram
 - Line: "Planner, Executor, and Verifier coordinate through shared memory."
 - System note: "Consensus required before high-risk actions."
 
-### Section 5: Agent Orchestration Timeline
+### Section 6: Conflict Resolution and Arbitration
+- Lines:
+  - "Conflicts trigger verification loops."
+  - "Arbitration rules decide retry, escalate, or halt."
+  - "Human approval for unresolved conflicts."
+
+### Section 7: Agent Orchestration Timeline
 - Steps:
   1. "Goal received"
   2. "Plan decomposed"
@@ -539,11 +551,11 @@ Use this copy as the baseline text for each section. Keep tone calm, precise, an
   4. "Execution monitored"
   5. "Verification and memory update"
 
-### Section 6: Safety, Control, and Auditability
+### Section 8: Safety, Control, and Auditability
 - Lines:
   - "Human approval for high-risk actions."
   - "Full trace of decisions and tool usage."
 
-### Section 7: Conversion Panel
+### Section 9: Conversion Panel
 - Headline: "Describe the tasks you want agents to handle."
 - CTA: "Ask the AI about agentic systems"

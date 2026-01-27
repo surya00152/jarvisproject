@@ -60,7 +60,23 @@ This page explains how agentic systems operate, orchestrate tools, and stay safe
 
 ---
 
-## Section 4: Multi-Agent Orchestration Diagram (Required)
+## Section 4: Tool Invocation Trace Mesh
+**Purpose**
+- Visualize every tool call as a traceable, auditable path.
+
+**Content Intent**
+- Each tool call is logged with input, output, and policy result.
+- Trace IDs allow replay and inspection.
+- Tool calls are rate-limited and scoped.
+
+**Design and Animation Logic**
+- A trace mesh overlays the tool layer with thin, linear paths.
+- Each invocation creates a short-lived trace line with a visible ID tag.
+- Policy gate stamp appears on approval or block.
+
+---
+
+## Section 5: Multi-Agent Orchestration Diagram (Required)
 **Purpose**
 - Visualize how agent roles coordinate in real time.
 - Make orchestration feel controlled, not chaotic.
@@ -80,7 +96,23 @@ This page explains how agentic systems operate, orchestrate tools, and stay safe
 
 ---
 
-## Section 5: Agent Orchestration Timeline
+## Section 6: Conflict Resolution and Arbitration
+**Purpose**
+- Show how agents resolve disagreements safely.
+
+**Content Intent**
+- Conflicts trigger a verification loop.
+- Arbitration rules decide when to retry, escalate, or halt.
+- Human approval is required for unresolved conflicts.
+
+**Design and Animation Logic**
+- A split-path visualization that merges only after resolution.
+- An amber "conflict flag" appears and clears on resolution.
+- A short "reason code" appears in mono text.
+
+---
+
+## Section 7: Agent Orchestration Timeline
 **Purpose**
 - Show the full sequence from goal to tool execution.
 
@@ -97,7 +129,7 @@ This page explains how agentic systems operate, orchestrate tools, and stay safe
 
 ---
 
-## Section 6: Safety, Control, and Auditability
+## Section 8: Safety, Control, and Auditability
 **Purpose**
 - Prove that autonomy is controlled and observable.
 
@@ -111,7 +143,7 @@ This page explains how agentic systems operate, orchestrate tools, and stay safe
 
 ---
 
-## Section 7: Conversion Panel
+## Section 9: Conversion Panel
 **Purpose**
 - Move advanced buyers into conversation.
 
