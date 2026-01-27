@@ -64,6 +64,7 @@ Use this page to create the first impression of an AI system interface. The page
 **Modules and Destinations**
 - Capabilities -> AI capabilities page
 - Build pipeline -> How intelligence is built page
+- Agentic flow -> Agentic tech flow page
 - Live demos -> Live AI experiences page
 - Scenarios -> Industries and use scenarios page
 - Why different -> Positioning page

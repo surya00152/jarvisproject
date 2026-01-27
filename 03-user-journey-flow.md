@@ -99,6 +99,20 @@ This document defines the full user journey flows and routing logic. The experie
 
 ---
 
+### Flow G: Agentic-First (Advanced Technical Buyer)
+**Entry points**
+- Agentic Tech Flow page, process page, capability details.
+
+**Path**
+1. Review the agentic loop and tool orchestration
+2. Inspect safety, control, and auditability
+3. Ask the AI to map agentic tasks to their workflow
+
+**Exit**
+- Process page or voice assistant qualification.
+
+---
+
 ## Routing Rules and Triggers
 
 ### CTA Routing Logic
@@ -111,6 +125,7 @@ This document defines the full user journey flows and routing logic. The experie
 - Home -> "Entry"
 - Capabilities -> "System design"
 - Process -> "Build pipeline"
+- Agentic -> "Agentic architecture"
 - Demos -> "Experience explanation"
 - Scenarios -> "Qualification"
 - Trust pages -> "Risk and governance"

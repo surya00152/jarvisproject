@@ -35,6 +35,7 @@ Use this copy as the baseline text for each section. Keep tone calm, precise, an
 - Module cards (label -> destination):
   - "Capabilities" -> AI capabilities
   - "Build pipeline" -> Process
+  - "Agentic flow" -> Agentic tech flow
   - "Live demos" -> Demo hub
   - "Scenarios" -> Use scenarios
   - "Why different" -> Positioning
@@ -500,3 +501,40 @@ Use this copy as the baseline text for each section. Keep tone calm, precise, an
 ### Section 6: Conversion Panel
 - Headline: "Ask the AI to explain any policy."
 - CTA: "Ask the AI about these policies"
+
+---
+
+## Page 16: Agentic Tech Flow
+
+### Section 1: Agentic Flow Hero
+- Headline: "Agents perceive, plan, and act."
+- Subhead: "Autonomy with guardrails and traceability."
+
+### Section 2: The Agentic Loop
+- Stage labels:
+  - "Perception"
+  - "State"
+  - "Planning"
+  - "Tools"
+  - "Action"
+  - "Review"
+  - "Memory"
+- Microcopy: "Select a stage to view system detail."
+
+### Section 3: Tool Orchestration Layer
+- Lines:
+  - "Tool registry with explicit permissions."
+  - "Policy gates before execution."
+  - "Sandboxed actions."
+
+### Section 4: Multi-Agent Collaboration
+- Line: "Planner, Executor, and Verifier roles share memory."
+
+### Section 5: Safety, Control, and Auditability
+- Lines:
+  - "Human approval for high-risk actions."
+  - "Full trace of decisions and tool usage."
+
+### Section 6: Conversion Panel
+- Headline: "Describe the tasks you want agents to handle."
+- CTA: "Ask the AI about agentic systems"
