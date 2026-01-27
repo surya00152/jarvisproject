@@ -92,6 +92,7 @@ Use this document as the overarching instruction set for every page. The website
 25. 25-model-evaluation-safety-metrics.md - Evaluation metrics page
 26. 26-procurement-pack.md - Procurement pack page
 27. 27-nextjs-performance-plan.md - Implementation plan (not a page)
+28. 28-seo-metadata-pack.md - SEO and social metadata (not a page)
 
 ## Pages (for reference)
 05. Home - Enter the Intelligence
