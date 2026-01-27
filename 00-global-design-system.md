@@ -72,3 +72,6 @@ Use this document as the overarching instruction set for every page. The website
 5. Industries and Use Scenarios
 6. Why This Is Different
 7. Talk to the AI - Contact Redefined
+8. Privacy and Ethics
+9. Security and Compliance
+10. System Status and Research Log
