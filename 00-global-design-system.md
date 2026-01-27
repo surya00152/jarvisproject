@@ -75,3 +75,8 @@ Use this document as the overarching instruction set for every page. The website
 8. Privacy and Ethics
 9. Security and Compliance
 10. System Status and Research Log
+11. AI Readiness Diagnostic
+12. Integrations and Data Sources
+13. Engagement Model - Pilot to Production
+14. Monitoring and Support
+15. Legal and Accessibility
