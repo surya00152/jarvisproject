@@ -78,7 +78,28 @@ Each capability card includes:
 
 ---
 
-## Section 4: Real-World Outcome Strip
+## Section 4: System Patterns (Applied Blueprints)
+**Purpose**
+- Translate capabilities into repeatable system patterns.
+
+**Content Intent**
+- Short pattern cards with one-line intent:
+  - RAG system blueprint
+  - Social message connectivity
+  - Vision detection pipeline
+
+**Design and Animation Logic**
+- Pattern cards appear as small blueprint tiles.
+- Hover reveals a one-line system summary.
+
+**CTA Placement**
+- "Open RAG blueprint"
+- "Open social connectivity"
+- "Open vision pipeline"
+
+---
+
+## Section 5: Real-World Outcome Strip
 **Purpose**
 - Translate technical capabilities into business impact.
 
@@ -91,7 +112,7 @@ Each capability card includes:
 
 ---
 
-## Section 5: Voice and Demo Conversion Panel
+## Section 6: Voice and Demo Conversion Panel
 **Purpose**
 - Provide a clear action path after comprehension.
 

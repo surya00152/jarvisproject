@@ -143,6 +143,20 @@ This document defines the full user journey flows and routing logic. The experie
 
 ---
 
+### Flow J: Pattern-First (System Pattern Review)
+**Entry points**
+- RAG System Blueprint, Social Message Connectivity, Vision Detection Pipeline.
+
+**Path**
+1. Review a system pattern
+2. Map pattern to data or channels
+3. Ask the AI for architecture fit
+
+**Exit**
+- Reference architecture or voice assistant.
+
+---
+
 ## Routing Rules and Triggers
 
 ### CTA Routing Logic
@@ -154,6 +168,7 @@ This document defines the full user journey flows and routing logic. The experie
 - If user visits the blueprint: offer "Map this to my stack".
 - If user visits the estimator: offer "Run readiness diagnostic".
 - If user visits metrics: offer "Ask about evaluation and safety".
+- If user visits a pattern page: offer "Map this to my data".
 
 ### Voice Assistant Context Tags
 - Home -> "Entry"
@@ -170,6 +185,9 @@ This document defines the full user journey flows and routing logic. The experie
 - Impact Estimator -> "Impact estimator"
 - Change Management -> "Adoption"
 - Model Evaluation -> "Metrics inquiry"
+- RAG Blueprint -> "RAG mapping"
+- Social Connectivity -> "Channel mapping"
+- Vision Pipeline -> "Vision pipeline"
 
 ### Demo Recommendation Logic
 - Voice or chat identifies a scenario.

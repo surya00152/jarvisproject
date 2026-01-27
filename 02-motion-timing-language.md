@@ -118,6 +118,21 @@ This document defines the animation and interaction timing for the entire site. 
 - Stack flow line: 1.0-1.4s linear.
 - Variant toggle swap: 220-320ms.
 
+### RAG Pipeline Diagram
+- Step highlight: 220-300ms.
+- Retrieval pulse: 600-800ms.
+- Citation attach line: 200-260ms.
+
+### Social Connectivity Map
+- Channel glow: 160-220ms.
+- Normalization converge: 420-520ms.
+- Routing branch draw: 260-340ms.
+
+### Vision Detection Pipeline
+- Frame capture pulse: 200-260ms.
+- Detection sweep: 520-680ms.
+- Threshold line flash: 120ms amber, 300ms fade.
+
 ### Impact and ROI Estimator
 - Slider response: 120-180ms.
 - Range band update: 200-260ms.

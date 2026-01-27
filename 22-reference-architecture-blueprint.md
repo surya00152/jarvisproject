@@ -63,7 +63,28 @@ This page presents a single, clean canonical AI system stack. It should feel lik
 
 ---
 
-## Section 4: Boundaries and Control
+## Section 4: System Pattern Overlays
+**Purpose**
+- Link the canonical stack to concrete system patterns.
+
+**Content Intent**
+- Pattern overlays:
+  - RAG system blueprint
+  - Social message connectivity
+  - Vision detection pipeline
+
+**Design and Animation Logic**
+- Selecting a pattern highlights the relevant layers in the stack.
+- A short one-line explanation appears for each overlay.
+
+**CTA Placement**
+- "Open RAG blueprint"
+- "Open social connectivity"
+- "Open vision pipeline"
+
+---
+
+## Section 5: Boundaries and Control
 **Purpose**
 - Clarify what is controlled, isolated, and auditable.
 
@@ -77,7 +98,7 @@ This page presents a single, clean canonical AI system stack. It should feel lik
 
 ---
 
-## Section 5: Conversion Panel
+## Section 6: Conversion Panel
 **Purpose**
 - Offer a technical conversation without sales pressure.
 

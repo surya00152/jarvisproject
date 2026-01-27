@@ -33,6 +33,7 @@ Use this copy as the baseline text for each section. Keep tone calm, precise, an
   - "Trust and Governance"
   - "Deployment Path"
   - "Enterprise Readiness"
+  - "System Patterns"
 - Module cards (label -> destination):
   - "Capabilities" -> AI capabilities
   - "Build pipeline" -> Process
@@ -55,6 +56,9 @@ Use this copy as the baseline text for each section. Keep tone calm, precise, an
   - "Change management" -> Human-in-the-loop
   - "Model evaluation" -> Safety metrics
   - "Procurement pack" -> Procurement pack
+  - "RAG blueprint" -> RAG system blueprint
+  - "Social connectivity" -> Social message connectivity
+  - "Vision pipeline" -> Vision detection pipeline
 - Atlas CTA: "Ask the AI to recommend a route"
 
 ### Section 3: What This AI Can Do
@@ -119,13 +123,17 @@ Use this copy as the baseline text for each section. Keep tone calm, precise, an
 - Subhead: "Each component strengthens the others."
 - CTA: "See the build pipeline"
 
-### Section 4: Real-World Outcome Strip
+### Section 4: System Patterns
+- Line: "RAG, social connectivity, and vision pipelines as repeatable patterns."
+- CTA: "Open system patterns"
+
+### Section 5: Real-World Outcome Strip
 - Outcome lines:
   - "24/7 intelligent handling without overload."
   - "Faster resolution with fewer human handoffs."
   - "Real-time insight from disconnected data."
 
-### Section 5: Voice and Demo Conversion Panel
+### Section 6: Voice and Demo Conversion Panel
 - Headline: "Tell the AI what you need."
 - Subhead: "It will map the capability stack."
 - Primary CTA: "Talk to the AI Architect"
@@ -634,12 +642,18 @@ Use this copy as the baseline text for each section. Keep tone calm, precise, an
   - "RAG-heavy"
   - "Agentic"
 
-### Section 4: Boundaries and Control
+### Section 4: System Pattern Overlays
+- Lines:
+  - "RAG system blueprint"
+  - "Social message connectivity"
+  - "Vision detection pipeline"
+
+### Section 5: Boundaries and Control
 - Lines:
   - "Policy gates before tool execution."
   - "Traceable decisions and outputs."
 
-### Section 5: Conversion Panel
+### Section 6: Conversion Panel
 - Headline: "Map this architecture to your environment."
 - CTA: "Ask the AI to map this to your stack"
 
@@ -767,3 +781,90 @@ Use this copy as the baseline text for each section. Keep tone calm, precise, an
 ### Section 5: Conversion Panel
 - Headline: "If you need a specific document, ask the AI."
 - CTA: "Ask the AI about a document"
+
+---
+
+## Page 23: RAG System Blueprint
+
+### Section 1: RAG Hero
+- Headline: "Retrieval, then reasoning."
+- Subhead: "Grounded answers from your knowledge base."
+
+### Section 2: RAG Pipeline
+- Steps:
+  1. "Ingest and normalize"
+  2. "Chunk and embed"
+  3. "Vector search"
+  4. "Context assembly"
+  5. "Reasoning and response"
+  6. "Citation and trace"
+
+### Section 3: Retrieval Quality Controls
+- Lines:
+  - "Re-ranking and relevance scoring."
+  - "Query expansion and filtering."
+
+### Section 4: Grounding and Citations
+- Line: "No source, no claim."
+
+### Section 5: Memory and Updates
+- Line: "Incremental updates and re-indexing."
+
+### Section 6: Conversion Panel
+- Headline: "Tell the AI where your knowledge lives."
+- CTA: "Ask the AI to map this to your data"
+
+---
+
+## Page 24: Social Message Connectivity
+
+### Section 1: Connectivity Hero
+- Headline: "Messages become signals."
+- Subhead: "Every channel flows into a single intelligence layer."
+
+### Section 2: Channel Intake Map
+- Line: "All channels normalize into a single signal layer."
+
+### Section 3: Routing and Context Layer
+- Lines:
+  - "Intent detection and routing."
+  - "RAG context when needed."
+
+### Section 4: Safety and Consent
+- Line: "Consent boundaries and abuse controls."
+
+### Section 5: Handoff and Outcomes
+- Line: "Human handoff or system action."
+
+### Section 6: Conversion Panel
+- Headline: "Tell the AI where your messages live."
+- CTA: "Ask the AI to map your channels"
+
+---
+
+## Page 25: Vision Detection Pipeline
+
+### Section 1: Vision Pipeline Hero
+- Headline: "Vision becomes decisions."
+- Subhead: "From frames to actions with measurable control."
+
+### Section 2: Detection Pipeline
+- Steps:
+  1. "Capture and preprocess"
+  2. "Detect objects"
+  3. "Track and classify"
+  4. "Apply thresholds"
+  5. "Trigger action"
+
+### Section 3: Latency and Deployment Modes
+- Line: "Edge for low latency, cloud for heavy models."
+
+### Section 4: Accuracy and Safety Controls
+- Line: "Confidence thresholds and drift monitoring."
+
+### Section 5: Actions and Integration
+- Line: "Alerts, tickets, and workflow triggers."
+
+### Section 6: Conversion Panel
+- Headline: "Describe what you need the system to see."
+- CTA: "Ask the AI about vision pipelines"

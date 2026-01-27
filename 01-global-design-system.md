@@ -93,6 +93,9 @@ Use this document as the overarching instruction set for every page. The website
 26. 26-procurement-pack.md - Procurement pack page
 27. 27-nextjs-performance-plan.md - Implementation plan (not a page)
 28. 28-seo-metadata-pack.md - SEO and social metadata (not a page)
+29. 29-rag-system-blueprint.md - RAG system pattern page
+30. 30-social-message-connectivity.md - Social connectivity pattern page
+31. 31-vision-detection-pipeline.md - Vision pipeline pattern page
 
 ## Pages (for reference)
 05. Home - Enter the Intelligence
@@ -117,3 +120,6 @@ Use this document as the overarching instruction set for every page. The website
 24. Change Management and Human-in-the-Loop
 25. Model Evaluation and Safety Metrics
 26. Procurement Pack
+29. RAG System Blueprint
+30. Social Message Connectivity
+31. Vision Detection Pipeline

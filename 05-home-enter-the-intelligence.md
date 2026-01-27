@@ -83,11 +83,15 @@ Use this page to create the first impression of an AI system interface. The page
 - Change management -> Human-in-the-loop page
 - Model evaluation -> Safety metrics page
 - Procurement pack -> Procurement pack page
+- RAG blueprint -> RAG system blueprint page
+- Social connectivity -> Social message connectivity page
+- Vision pipeline -> Vision detection pipeline page
 
 **Design and Animation Logic**
 - Cards appear as a constellation around a central intelligence core.
 - Cluster labels: "Core Intelligence", "Proof and Experience",
-  "Trust and Governance", "Deployment Path", "Enterprise Readiness".
+  "Trust and Governance", "Deployment Path", "Enterprise Readiness",
+  "System Patterns".
 - Hovering a card highlights its cluster and draws a short signal line.
 
 **CTA Placement**
