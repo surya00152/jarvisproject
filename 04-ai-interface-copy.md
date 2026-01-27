@@ -527,14 +527,23 @@ Use this copy as the baseline text for each section. Keep tone calm, precise, an
   - "Policy gates before execution."
   - "Sandboxed actions."
 
-### Section 4: Multi-Agent Collaboration
-- Line: "Planner, Executor, and Verifier roles share memory."
+### Section 4: Multi-Agent Orchestration Diagram
+- Line: "Planner, Executor, and Verifier coordinate through shared memory."
+- System note: "Consensus required before high-risk actions."
 
-### Section 5: Safety, Control, and Auditability
+### Section 5: Agent Orchestration Timeline
+- Steps:
+  1. "Goal received"
+  2. "Plan decomposed"
+  3. "Tools selected"
+  4. "Execution monitored"
+  5. "Verification and memory update"
+
+### Section 6: Safety, Control, and Auditability
 - Lines:
   - "Human approval for high-risk actions."
   - "Full trace of decisions and tool usage."
 
-### Section 6: Conversion Panel
+### Section 7: Conversion Panel
 - Headline: "Describe the tasks you want agents to handle."
 - CTA: "Ask the AI about agentic systems"

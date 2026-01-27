@@ -94,6 +94,13 @@ This document defines the animation and interaction timing for the entire site. 
 - Sequence: 80ms delay between nodes.
 - Use accent only on the active stage.
 
+### Agentic Orchestration Diagram
+- Role lattice orbit: 10-14s loop, 1-2 degrees rotation.
+- Message packet flow: 600-900ms travel, 2-3s interval.
+- Consensus ring pulse: 420ms in, 600ms out.
+- Task queue tick: 280ms reveal per item, 80ms stagger.
+- Tool gate flash: 120ms amber, 300ms fade.
+
 ### Trust and Policy Pages
 - Minimal motion only.
 - Use amber highlight for checks (120ms flash, 300ms fade).

@@ -60,20 +60,44 @@ This page explains how agentic systems operate, orchestrate tools, and stay safe
 
 ---
 
-## Section 4: Multi-Agent Collaboration (Optional)
+## Section 4: Multi-Agent Orchestration Diagram (Required)
 **Purpose**
-- Show how multiple agents coordinate without chaos.
+- Visualize how agent roles coordinate in real time.
+- Make orchestration feel controlled, not chaotic.
 
 **Content Intent**
 - Roles: Planner, Executor, Verifier.
 - Message passing and consensus checks.
+- Shared memory hub and task queue.
+- Tool call sequencing with policy gates.
 
 **Design and Animation Logic**
-- Three nodes exchanging signals through a shared memory hub.
+- A role lattice: three agent nodes orbit a shared memory core.
+- A task queue flows into the Planner, then routes to Executor.
+- Verifier sends a green or amber signal back to the Planner.
+- A "consensus ring" pulses only when agreement is reached.
+- Hover on any signal reveals a short mono "trace step."
 
 ---
 
-## Section 5: Safety, Control, and Auditability
+## Section 5: Agent Orchestration Timeline
+**Purpose**
+- Show the full sequence from goal to tool execution.
+
+**Content Intent**
+- Step 1: Goal received.
+- Step 2: Plan decomposed into tasks.
+- Step 3: Tools selected with permissions.
+- Step 4: Execution with monitored outcomes.
+- Step 5: Verification and memory update.
+
+**Design and Animation Logic**
+- A horizontal timeline with a single moving "agent token."
+- Each step expands to show a one-line system note.
+
+---
+
+## Section 6: Safety, Control, and Auditability
 **Purpose**
 - Prove that autonomy is controlled and observable.
 
@@ -87,7 +111,7 @@ This page explains how agentic systems operate, orchestrate tools, and stay safe
 
 ---
 
-## Section 6: Conversion Panel
+## Section 7: Conversion Panel
 **Purpose**
 - Move advanced buyers into conversation.
 
